@@ -1,31 +1,46 @@
-h1 {
-    color:aqua;
-    letter-spacing: 69px;
-    background-image:url(h1.jpg);
-    text-shadow:4px 0px;
+h1 
+{
+color:aqua;
+letter-spacing: 69px;
+background-image:url(h1.jpg);
+text-shadow:4px 0px;
 }
 
-body{background-image:url(sitebg.jpg);
-     background-repeat: no-repeat;
-    text-align: center;
+body
+{
+background-image:url(sitebg.jpg);
+background-repeat:no-repeat;
+text-align:center;
 }
-p {color:darkgoldenrod;
-    background-color:deepskyblue
+
+p 
+{
+color:darkgoldenrod;
+background-color:deepskyblue
 }
-h2{
-    font-family:monospace;
-    font-style:italic;
-    text-align: right;
-    font-kerning: normal;
+
+h2
+{
+font-family:monospace;
+font-style:italic;
+text-align: right;
+font-kerning: normal;
 }
-.footer{position:fixed;
-        text-align: right;
-        bottom:0px;
-        width:100%;
+.footer
+{
+position:fixed;
+text-align:right;
+bottom:0px;
+width:99%;
+color:aqua;
 }
-a{
-    background-blend-mode: hue;
+
+a
+{
+background-blend-mode: hue;
 }
-p1{
+
+p1
+{
     color:#ABD98E;
 }
